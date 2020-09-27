@@ -68,7 +68,7 @@
       <updated>1601201211975</updated>
       <workItem from="1601201222715" duration="295000" />
       <workItem from="1601202341206" duration="49000" />
-      <workItem from="1601202523811" duration="6308000" />
+      <workItem from="1601202523811" duration="8455000" />
     </task>
     <servers />
   </component>
@@ -91,10 +91,10 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1601209497456">
+    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1601214102910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601209497456" />
+    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601214102910" />
     <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1601201411701">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
