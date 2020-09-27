@@ -7,7 +7,7 @@ on:
     branches: '**'
 defaults:
     run:
-      working-directory: ./HomeWork
+      working-directory: ./HomeWork/
 
 jobs:
   build:
