@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a8307a6-41aa-48f5-aa09-9ee6812eae1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Calc/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Calc/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Calc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Calc/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc/obj/Calc.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calc/obj/Calc.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc/obj/Debug/netcoreapp3.1/Calc.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calc/obj/Debug/netcoreapp3.1/Calc.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc/obj/Debug/netcoreapp3.1/Calc.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Calc/obj/Debug/netcoreapp3.1/Calc.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc/obj/Debug/netcoreapp3.1/Calc.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calc/obj/Debug/netcoreapp3.1/Calc.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calc/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calc/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calc/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Calc/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/bin/Debug/netcoreapp3.1/Calc_Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/bin/Debug/netcoreapp3.1/Calc_Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/bin/Debug/netcoreapp3.1/Calc_Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/bin/Debug/netcoreapp3.1/Calc_Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/obj/Calc_Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/obj/Calc_Tests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/obj/Debug/netcoreapp3.1/Calc_Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/obj/Debug/netcoreapp3.1/Calc_Tests.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/obj/Debug/netcoreapp3.1/Calc_Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/obj/Debug/netcoreapp3.1/Calc_Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/obj/Debug/netcoreapp3.1/Calc_Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/obj/Debug/netcoreapp3.1/Calc_Tests.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/obj/Debug/netcoreapp3.1/Calc_Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/obj/Debug/netcoreapp3.1/Calc_Tests.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/obj/Debug/netcoreapp3.1/Calc_Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/obj/Debug/netcoreapp3.1/Calc_Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/obj/Debug/netcoreapp3.1/Calc_Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/obj/Debug/netcoreapp3.1/Calc_Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calc_Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Calc_Tests/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +68,7 @@
       <updated>1601201211975</updated>
       <workItem from="1601201222715" duration="295000" />
       <workItem from="1601202341206" duration="49000" />
-      <workItem from="1601202523811" duration="294000" />
+      <workItem from="1601202523811" duration="6308000" />
     </task>
     <servers />
   </component>
@@ -113,10 +91,10 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1601202850409">
+    <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1601209497456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601202850409" />
+    <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601209497456" />
     <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1601201411701">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
