@@ -68,7 +68,7 @@
       <updated>1601201211975</updated>
       <workItem from="1601201222715" duration="295000" />
       <workItem from="1601202341206" duration="49000" />
-      <workItem from="1601202523811" duration="8455000" />
+      <workItem from="1601202523811" duration="10247000" />
     </task>
     <servers />
   </component>
@@ -79,7 +79,7 @@
     <option name="coveragePercentColumnWidth" value="150" />
     <option name="sortOrder" value="DESCENDING" />
     <option name="sortedColumn" value="1" />
-    <option name="symbolColumnWidth" value="338" />
+    <option name="symbolColumnWidth" value="244" />
     <coverage-tree-state>
       <expand />
       <select />
