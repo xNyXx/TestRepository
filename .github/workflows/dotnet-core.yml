@@ -25,11 +25,7 @@ jobs:
     - name: Codecov
       uses: codecov/codecov-action@v1.0.13
       with:
-<<<<<<< HEAD
-        file: ./coverage.jas
-=======
-        file: ./coverages.xml
->>>>>>> 0a13de38d5a440642b2924387a27c9c4ff724873
+        file: ./coverage.json
     - name: Build
       run: dotnet build --configuration Release --no-restore
     - name: Test
