@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8qhkRt+wV/F/hWOI/wiKTgdq1E8vKsfg3MHLxfzFumFAhadJAiJzyfWq18AdgayKBFbEkACZpr+wBv7uUvVYoA==",
+  "dgSpecHash": "pnjqITtJ6wZCSC3f17dZYCcIfq5ns+hSnxUQjk3/6d0lLsxEymOa0G1kORqngbJSLG3DVUHHLNb0leu0DE05sg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ildar\\RiderProjects\\Calc\\Calc_Tests\\Calc_Tests.csproj",
+  "projectFilePath": "C:\\Users\\Ildar\\Desktop\\Calc_Rep\\HomeWork\\Calc_Tests\\Calc_Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ildar\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Ildar\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
