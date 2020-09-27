@@ -7,7 +7,7 @@ on:
     branches: '**'
 defaults:
     run:
-      working-directory: ./HomeWork/
+      working-directory: ./Calc.sln
 
 jobs:
   build:
