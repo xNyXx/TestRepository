@@ -5,13 +5,14 @@ namespace dNET
 {
     public static class Calculator
     {
+        [ExcludeFromCodeCoverage]
         public static int GetNubmer()
-        {
-            int num = int.Parse(Console.ReadLine());
-            return num;
-        }
+            {
+                int num = int.Parse(Console.ReadLine());
+                return num;
+            }
 
-        public static int Calculate(int num1, string operation, int num2)
+            public static int Calculate(int num1, string operation, int num2)
         {
             switch (operation)
             {

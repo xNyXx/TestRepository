@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e2ee9c92-d0b9-4de4-a9c8-89cc74eb7e50" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.dNET/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.dNET/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/Calculator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Calculator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +24,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Calculator_Tests/UnitTest1.cs" />
-        <option value="$PROJECT_DIR$/Calculator/Calculator.cs" />
         <option value="$PROJECT_DIR$/Calculator/Program.cs" />
+        <option value="$PROJECT_DIR$/Calculator/Calculator.cs" />
       </list>
     </option>
   </component>
@@ -78,7 +80,8 @@
       <workItem from="1601630910780" duration="52000" />
       <workItem from="1601673652732" duration="162000" />
       <workItem from="1601722390398" duration="390000" />
-      <workItem from="1601723429095" duration="297000" />
+      <workItem from="1601723429095" duration="1942000" />
+      <workItem from="1601734833680" duration="1668000" />
     </task>
     <servers />
   </component>
@@ -88,12 +91,48 @@
   <component name="UnitTestsCoverage.Settings">
     <option name="coveragePercentColumnWidth" value="121" />
     <option name="sortOrder" value="ASCENDING" />
-    <option name="symbolColumnWidth" value="287" />
+    <option name="symbolColumnWidth" value="300" />
     <coverage-tree-state>
       <expand>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
           <item name="Total 100% 0/30" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 100% 0/30" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Calculator 100% 0/10" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 100% 0/30" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Calculator 100% 0/10" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="dNET 100% 0/10" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 100% 0/30" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Calculator 100% 0/10" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="dNET 100% 0/10" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Calculator 100% 0/10" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 100% 0/30" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Calculator_Tests 100% 0/20" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 100% 0/30" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Calculator_Tests 100% 0/20" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Calculator_Tests 100% 0/20" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 100% 0/30" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Calculator_Tests 100% 0/20" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Calculator_Tests 100% 0/20" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="UnitTest1 100% 0/20" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
       </expand>
       <select />
@@ -133,6 +172,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600813310012" />
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog" timestamp="1601735642666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601735642666" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600810973663">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

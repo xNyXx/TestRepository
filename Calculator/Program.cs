@@ -5,6 +5,7 @@ using System.Diagnostics.CodeAnalysis;
 
 namespace dNET
 {
+    [ExcludeFromCodeCoverage]
     class Program
         {
             static void Main(string[] args)
