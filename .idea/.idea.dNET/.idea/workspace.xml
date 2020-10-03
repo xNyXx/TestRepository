@@ -4,7 +4,9 @@
     <projectFile>dNET/dNET.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ee9c92-d0b9-4de4-a9c8-89cc74eb7e50" name="Default Changelist" comment="" />
+    <list default="true" id="e2ee9c92-d0b9-4de4-a9c8-89cc74eb7e50" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.dNET/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.dNET/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +41,7 @@
     <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.dNET">
+  <component name="RunManager">
     <configuration name="dNET" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -76,6 +78,7 @@
       <workItem from="1601630910780" duration="52000" />
       <workItem from="1601673652732" duration="162000" />
       <workItem from="1601722390398" duration="390000" />
+      <workItem from="1601723429095" duration="297000" />
     </task>
     <servers />
   </component>
@@ -85,7 +88,7 @@
   <component name="UnitTestsCoverage.Settings">
     <option name="coveragePercentColumnWidth" value="121" />
     <option name="sortOrder" value="ASCENDING" />
-    <option name="symbolColumnWidth" value="273" />
+    <option name="symbolColumnWidth" value="287" />
     <coverage-tree-state>
       <expand>
         <path>
