@@ -28,6 +28,7 @@ jobs:
       with:
         token: ${{ secrets.CODECOV_TOKEN }}
         file: ./Calculator_Tests/coverage.opencover.xml
+        files: ./Calculator.cs # optional
         flags: tests
         name: codecov-umbrella
         yml: ./codecov.yml
